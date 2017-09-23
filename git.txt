@@ -9,3 +9,5 @@ git xiu gai qu xiao
 git s
 
 git two xiu gai
+
+gie del xiu gai
